@@ -82,6 +82,26 @@ hospital-management-system/
 └── README.md
 ```
 
+## ▶️ How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/shivamkun07/hospital-management-system.git
+```
+
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the application
+
+```bash
+python GUI.py
+```
+
 ## 👥 Team
 
 ### Shivam Mahapatra
